@@ -1,0 +1,11 @@
+ne pas oublier <html lang="fr"
+
+pour les links
+rel="noopener" ou "noreferrer"
+
+arial-label puis mettre nom ou description du lien
+
+
+
+<meta name="description" content="Mon premier site " >
+ne pas oublier name = "descritpion" avec description dans le content
